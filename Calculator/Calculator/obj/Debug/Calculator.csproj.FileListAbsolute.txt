@@ -7,3 +7,4 @@ D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Cal
 D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.FormCalc.resources
