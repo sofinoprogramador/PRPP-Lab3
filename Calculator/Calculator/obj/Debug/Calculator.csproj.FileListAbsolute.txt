@@ -1,0 +1,9 @@
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
