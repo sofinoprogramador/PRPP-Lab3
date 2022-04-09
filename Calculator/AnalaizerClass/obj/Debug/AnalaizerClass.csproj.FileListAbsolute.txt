@@ -1,0 +1,9 @@
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\bin\Debug\AnalaizerClass.dll
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\bin\Debug\AnalaizerClass.pdb
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\bin\Debug\CalcClass.dll
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\bin\Debug\CalcClass.pdb
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.AssemblyReference.cache
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.CoreCompileInputs.cache
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.CopyComplete
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.dll
+C:\Users\Karina Koshechka\OneDrive\Рабочий стол\4 курс 2 семестр\Промислова розробка\Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.pdb
