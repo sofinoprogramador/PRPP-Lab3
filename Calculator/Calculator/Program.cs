@@ -16,7 +16,18 @@ namespace Calculator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormCalc());
+            //Application.Run(new FormCalc());
+
+            string[] args = Environment.GetCommandLineArgs();
+            if (args.Length <= 1)
+            {
+                Application.Run(new FormCalc());
+            }
+            else
+            {
+                Application.Run(new FormCalc(args));
+            }
+            Console.WriteLine("GetCommandLineArgs: {0}", string.Join(", ", args));
         }
     }
 }

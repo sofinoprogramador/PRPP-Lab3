@@ -16,3 +16,12 @@ C:\Users\Назар\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass
 C:\Users\Назар\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.CopyComplete
 C:\Users\Назар\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.dll
 C:\Users\Назар\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.pdb
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\bin\Debug\AnalaizerClass.dll
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\bin\Debug\AnalaizerClass.pdb
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\bin\Debug\CalcClass.dll
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\bin\Debug\CalcClass.pdb
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csprojAssemblyReference.cache
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.CoreCompileInputs.cache
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.csproj.CopyComplete
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.dll
+D:\Desktop\ПРПП\PRPP-Lab3\Calculator\AnalaizerClass\obj\Debug\AnalaizerClass.pdb

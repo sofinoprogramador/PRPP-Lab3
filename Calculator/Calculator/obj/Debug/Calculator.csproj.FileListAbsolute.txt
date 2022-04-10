@@ -11,7 +11,6 @@ D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Cal
 D:\Desktop\ПРПП\PRPP-Lab3\Calculator\Calculator\bin\Debug\Calculator.exe.config
 D:\Desktop\ПРПП\PRPP-Lab3\Calculator\Calculator\bin\Debug\Calculator.exe
 D:\Desktop\ПРПП\PRPP-Lab3\Calculator\Calculator\bin\Debug\Calculator.pdb
-D:\Desktop\ПРПП\PRPP-Lab3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
 D:\Desktop\ПРПП\PRPP-Lab3\Calculator\Calculator\obj\Debug\Calculator.FormCalc.resources
 D:\Desktop\ПРПП\PRPP-Lab3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
 D:\Desktop\ПРПП\PRPP-Lab3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
