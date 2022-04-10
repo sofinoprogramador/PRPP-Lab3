@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
 
 namespace Calculator
 {
@@ -20,15 +21,15 @@ namespace Calculator
         private double tempNumber = 0;
         private string errorMessage = "";
 
-        //[DllImport("kernel32.dll", SetLastError = true)]
-        //[return: MarshalAs(UnmanagedType.Bool)]
-        //static extern bool AllocConsole();
+        [DllImport("kernel32.dll", SetLastError = true)]
+        [return: MarshalAs(UnmanagedType.Bool)]
+        static extern bool AllocConsole();
 
         public FormCalc(string[] args)
         {
             InitializeComponent();
 
-            //AllocConsole();
+            AllocConsole();
             string expression = "";
             string[] argum = Environment.GetCommandLineArgs();
             for (int i = 1; i < argum.Length; i++)
@@ -48,6 +49,7 @@ namespace Calculator
                 string errorMessage = analyzer.lastError == "" ? exception.Message : analyzer.lastError;
                 Console.WriteLine(errorMessage);
             }
+            Console.ReadKey();
         }
 
         private void button_Click(object sender, EventArgs e)
