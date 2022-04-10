@@ -347,7 +347,7 @@ namespace Calculator
             this.buttonMpluss.TabIndex = 22;
             this.buttonMpluss.Text = "M+";
             this.buttonMpluss.UseVisualStyleBackColor = true;
-            this.buttonMpluss.Click += new System.EventHandler(this.buttonMplus_Click);
+            this.buttonMpluss.Click += new System.EventHandler(this.buttonMpluss_Click);
             // 
             // buttonMC
             // 
